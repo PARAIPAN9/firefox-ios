@@ -1670,6 +1670,9 @@ class BrowserViewController: UIViewController,
             return
         }
 
+        // Do not update Fakespot when we are not on a selected tab
+        guard tabManager.selectedTab == tab else { return }
+
         if contentStackView.isSidebarVisible {
             // Sidebar is visible, update content
             navigationHandler?.updateFakespotSidebar(productURL: url,
@@ -1681,7 +1684,8 @@ class BrowserViewController: UIViewController,
             // Sidebar should be displayed and Fakespot is open, display Fakespot
             handleFakespotFlow(productURL: url)
         } else if let fakespotState = browserViewControllerState?.fakespotState,
-                  fakespotState.sidebarOpenForiPadLandscape {
+                  fakespotState.sidebarOpenForiPadLandscape,
+                  UIDevice.current.userInterfaceIdiom == .pad {
             // Sidebar should be displayed, display Fakespot
             store.dispatch(FakespotAction.setAppearanceTo(true))
         }
