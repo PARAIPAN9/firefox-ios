@@ -34,9 +34,6 @@
 /* Message shown in the permission alert when microphone access has been denied for the Quick Answers feature. %@ is the name of the app (e.g. Firefox). */
 "QuickAnswers.Errors.MicrophonePermissionMessage.v158" = "%@ den Zugriff auf das Mikrofon erlauben.";
 
-/* Button label to dismiss the Quick Answers error alert. */
-"QuickAnswers.Errors.OK.v158" = "OK";
-
 /* Button label on the permission alert that opens the iOS Settings app so the user can grant permissions. */
 "QuickAnswers.Errors.OpenSettings.v158" = "Einstellungen öffnen";
 
