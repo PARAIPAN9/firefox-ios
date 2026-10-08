@@ -184,6 +184,9 @@
 /* In the settings menu, this label indicates that there is an option of customizing the Autoplay behaviour. */
 "Settings.Autoplay.SettingsTitle.v137" = "Tự động phát";
 
+/* VoiceOver custom action name for a settings row's Learn More link. */
+"Settings.BoolSetting.LearnMoreAction.v157" = "Tìm hiểu thêm";
+
 /* Description text for the Ad Blocker toggle in the Browsing settings page, explaining its purpose and a tip for troubleshooting broken sites. */
 "Settings.Browsing.AdBlocker.Description.v155" = "Giảm số lượng quảng cáo và trình theo dõi liên quan đến quảng cáo. Nếu trang web bị lỗi, hãy thử tắt chức năng này.";
 

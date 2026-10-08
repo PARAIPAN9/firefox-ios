@@ -4,9 +4,6 @@
 /* Button label on the Quick Answers permission alert to dismiss the alert without taking action. */
 "QuickAnswers.Errors.Cancel.v158" = "Prekliči";
 
-/* Button label to dismiss the Quick Answers error alert. */
-"QuickAnswers.Errors.OK.v158" = "V redu";
-
 /* Button label on the permission alert that opens the iOS Settings app so the user can grant permissions. */
 "QuickAnswers.Errors.OpenSettings.v158" = "Odpri nastavitve";
 

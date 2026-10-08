@@ -184,6 +184,9 @@
 /* In the settings menu, this label indicates that there is an option of customizing the Autoplay behaviour. */
 "Settings.Autoplay.SettingsTitle.v137" = "Automatyczne odtwarzanie";
 
+/* VoiceOver custom action name for a settings row's Learn More link. */
+"Settings.BoolSetting.LearnMoreAction.v157" = "Więcej informacji";
+
 /* Description text for the Ad Blocker toggle in the Browsing settings page, explaining its purpose and a tip for troubleshooting broken sites. */
 "Settings.Browsing.AdBlocker.Description.v155" = "Zmniejsza liczbę reklam i reklamowych elementów śledzących. Jeśli strona wydaje się uszkodzona, spróbuj to wyłączyć.";
 
@@ -293,7 +296,7 @@
 "Settings.Search.EnginesSuggestions.Title.v124" = "Podpowiedzi wyszukiwarek";
 
 /* In the Search settings, this is the description that describes the Google Lens feature */
-"Settings.Search.GoogleLens.Description.v153" = "Wysyłanie obrazów do Google, aby wyszukać.";
+"Settings.Search.GoogleLens.Description.v153" = "Wysyłanie obrazów do Google, by wyszukać.";
 
 /* In the Search settings, this is the disclaimer underneath the Google Lens settings toggle that explains the conditions required for Google Lens to be available. */
 "Settings.Search.GoogleLens.Footnote.v153" = "Dostępne tylko wtedy, gdy wyszukiwarka Google jest włączona i w danej chwili aktywna.";
@@ -443,7 +446,7 @@
 "Settings.Translation.Title.v145" = "Tłumaczenie";
 
 /* Footer text below the enable toggle in the Translation settings screen. */
-"Settings.Translation.ToggleFooter.v151" = "Wyłącz, aby usunąć tłumaczenie z paska narzędzi i menu.";
+"Settings.Translation.ToggleFooter.v151" = "Wyłącz, by usunąć tłumaczenie z paska narzędzi i menu.";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
 "Settings.Translation.ToggleTitle.v145" = "Tłumaczenia";

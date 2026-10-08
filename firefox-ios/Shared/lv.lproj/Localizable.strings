@@ -592,6 +592,9 @@
 /* Title of the Learn More button that links to a support page about device passcode requirements. */
 "Logins.DevicePasscodeRequired.LearnMoreButtonTitle" = "Uzzināt vairāk";
 
+/* Title of the Continue button. */
+"Logins.Onboarding.ContinueButtonTitle" = "Turpināt";
+
 /* Title of the Learn More button that links to a support page about device passcode requirements. */
 "Logins.Onboarding.LearnMoreButtonTitle" = "Uzzināt vairāk";
 
@@ -847,6 +850,9 @@
 /* Title of the dialog that allows you to send a tab to a different device */
 "SendTo.NavBar.Title" = "Sūtīt cilni";
 
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Message" = "Lūgums atvērt Firefox, doties uz iestatījumiem un pieteikties, lai turpinātu.";
+
 /* Navigation bar button to Send the current page to a device */
 "SendTo.SendAction.Text" = "Sūtīt";
 
@@ -929,7 +935,7 @@
 "Settings.DataManagement.SearchLabel" = "Atsijāt vietnes";
 
 /* Body of the alert when prompting the user asking to disconnect. */
-"Settings.Disconnect.Body" = "Firefox pārstās sinhronizēt ar jūsu kontu, bet esošie dati no šīs ierīces netiks izdzēsti.";
+"Settings.Disconnect.Body" = "Firefox pārstās vienādot ar Tavu kontu, bet neizdzēsīs pārlūkošanas datus šajā ierīcē.";
 
 /* Button displayed at the bottom of settings page allowing users to Disconnect from FxA */
 "Settings.Disconnect.Button" = "Atvienoties";
@@ -1115,7 +1121,7 @@
 "Sync.SyncingEllipsis.Label" = "Sinhronizē…";
 
 /* Title for Sync status message when Sync failed due to being offline */
-"SyncState.Offline.Title" = "Sinhronizācija šobrīd nedarbojas";
+"SyncState.Offline.Title" = "Vienādošana ir bezsaistē";
 
 /* Message spoken by VoiceOver saying the position of the single currently visible tab in Tabs Tray (%1$@), along with the total number of tabs (%2$@). E.g. “Tab 2 of 5” says that tab 2 is visible (and is the only visible tab), out of 5 tabs total. */
 "Tab %@ of %@" = "Cilne %1$@ no %2$@";

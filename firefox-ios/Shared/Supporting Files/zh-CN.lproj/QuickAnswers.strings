@@ -1,0 +1,54 @@
+/* Accessibility label for the close button on the Quick Answers screen. */
+"QuickAnswers.AccessibilityLabels.Close.v158" = "关闭";
+
+/* Accessibility label for the button on the homepage that opens the Quick Answers feature. */
+"QuickAnswers.AccessibilityLabels.OpenQuickAnswers.v158" = "打开快问快答";
+
+/* Loading label shown in the Quick Answers view while an answer is being fetched. */
+"QuickAnswers.ContentView.Answering.v158" = "正在回答…";
+
+/* Header label for the sources section shown below a Quick Answers result. */
+"QuickAnswers.ContentView.Sources.v158" = "来源";
+
+/* Button label on the Quick Answers permission alert to dismiss the alert without taking action. */
+"QuickAnswers.Errors.Cancel.v158" = "取消";
+
+/* Message shown in the alert when the user has exceeded the daily usage limit for Quick Answers. */
+"QuickAnswers.Errors.DailyLimitMessage.v158" = "请明天再来使用“快问快答”。";
+
+/* Title of the alert shown when the user has exceeded the daily usage limit for Quick Answers. */
+"QuickAnswers.Errors.DailyLimitTitle.v158" = "已达每日用量上限";
+
+/* Message shown in the alert when Quick Answers encounters an unexpected error. */
+"QuickAnswers.Errors.GenericErrorMessage.v158" = "请稍后再尝试询问。";
+
+/* Title of the alert shown when Quick Answers encounters an unexpected error. */
+"QuickAnswers.Errors.GenericErrorTitle.v158" = "无法获取回答";
+
+/* Message shown in the permission alert when microphone access has been denied for the Quick Answers feature. %@ is the name of the app (e.g. Firefox). */
+"QuickAnswers.Errors.MicrophonePermissionMessage.v158" = "允许 %@ 使用麦克风。";
+
+/* Button label on the permission alert that opens the iOS Settings app so the user can grant permissions. */
+"QuickAnswers.Errors.OpenSettings.v158" = "打开设置";
+
+/* Title of the alert shown when the user has denied microphone or speech recognition permissions needed for Quick Answers. */
+"QuickAnswers.Errors.PermissionAlertTitle.v158" = "更改设置以使用“快问快答”";
+
+/* Message shown in the permission alert when speech recognition access has been denied for the Quick Answers feature. %@ is the name of the app (e.g. Firefox). */
+"QuickAnswers.Errors.SpeechRecognitionPermissionMessage.v158" = "允许 %@ 使用语音识别。";
+
+/* Button on the Quick Answers opt-in screen that the user taps to accept and start using the feature. */
+"QuickAnswers.OptIn.ContinueButton.v158" = "继续";
+
+/* Description displayed on the Quick Answers opt-in screen explaining how the feature works and its privacy policy. */
+"QuickAnswers.OptIn.Description.v158" = "说出问题，即可获得简短回答。我们不会存储您的语音或问题。";
+
+/* Link text on the Quick Answers opt-in screen that opens more information about the feature. */
+"QuickAnswers.OptIn.LearnMore.v158" = "详细了解";
+
+/* Title displayed on the Quick Answers opt-in screen that introduces the voice feature. */
+"QuickAnswers.OptIn.Title.v158" = "语音提问";
+
+/* Message of the tooltip that introduces the Quick Answers feature on the homepage. */
+"QuickAnswers.Tip.Message.v158" = "轻点此处开始使用。";
+
